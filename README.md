@@ -33,7 +33,7 @@ For projects and colabs click [here](https://github.com/simretB05/Projects) 😀
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> 
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
- -->
+
 <!--
 **simretB05/simretB05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
