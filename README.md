@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Simret 
-## I'm a frontend web developer!
+## I'm a Frontend Web Developer!
 - 🔭 I’m currently working as an intern at GenerationUSA
 - 🌱 I’m currently learning to be a full-stock webdeveloper
 - 👯 I’m looking to collaborate with other web developers 
